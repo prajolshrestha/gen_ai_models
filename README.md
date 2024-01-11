@@ -11,6 +11,6 @@ Topics: (currently learning)
 5. RLHF
 6. Evaluation
 7. Quantization
-   - Quantization basics
+   - Quantization basics [done]
    - 
 8. Inference Optimization
