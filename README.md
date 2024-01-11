@@ -6,9 +6,11 @@ Topics: (currently learning)
 2. Building an instruction dataset
 3. Pre-training Models [done]
 4. Supervised Fine-Tuning
-   a. LoRA [done]
-   b. QLoRA
+   - LoRA [done]
+   - QLoRA
 5. RLHF
 6. Evaluation
 7. Quantization
+   - Quantization basics
+   - 
 8. Inference Optimization
